@@ -1,0 +1,15 @@
+. Disadvantage of DBMS
+
+1 : - DBMS manage only It / Technical person.
+2 : - Its online available.
+3 : - Stable internet required.
+4 : - Data secure but credentials leak data all leak.
+5 : - DBMS available on all devices.
+
+. Advantage of FMS
+
+1 : - Offline available.
+2 : - More than one person use.
+3 : - Data secure.
+4 : - All person see & manage data easily.
+5 : - FMS only more than one pc use.
